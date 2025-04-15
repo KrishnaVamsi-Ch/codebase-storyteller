@@ -40,10 +40,12 @@ def greet_user(name):
 🌐 Translations
 
 🇪🇸 Spanish:
+
 Este archivo contiene una clase (`FileReader`) y tres funciones (`__init__`, `load_file`, `greet_user`).
 Estas funciones se utilizan para leer un archivo y saludar al usuario.
 
 🇫🇷 French:
+
 Ce fichier contient une classe (`FileReader`) et trois fonctions (`__init__`, `load_file`, `greet_user`).
 Ces fonctions sont utilisées pour lire un fichier et saluer l'utilisateur.
 
