@@ -29,15 +29,26 @@ class FileReader:
 
 def greet_user(name):
     return f"Hello, {name}!"
+
+**🧠 Output:**
+
 📄 sample.py  
   🔹 Classes: ['FileReader']  
   🔹 Functions: ['__init__', 'load_file', 'greet_user']
 
+**🌐 Translations**
+
+**🇪🇸 Spanish:**
+
 Este archivo contiene una clase (`FileReader`) y tres funciones (`__init__`, `load_file`, `greet_user`).
 Estas funciones se utilizan para leer un archivo y saludar al usuario.
 
+**🇫🇷 French:**
 Ce fichier contient une classe (`FileReader`) et trois fonctions (`__init__`, `load_file`, `greet_user`).
 Ces fonctions sont utilisées pour lire un fichier et saluer l'utilisateur.
+
+
+**🚀 How to Use**
 
 git clone https://github.com/KrishnaVamsi-Ch/codebase-storyteller.git
 cd codebase-storyteller
@@ -45,36 +56,14 @@ pip install -r requirements.txt
 python parser.py
 python translate.py
 
-🧭 Use Cases
+**🧭 Use Cases**
+
 📚 Beginners learning how codebases are structured
 
 🧪 Documentation writers summarizing large projects
 
 🌍 Multilingual devs who want explanations in their language
 
-👥 Teams onboarding new developers
-
-📫 Let's Connect
-
-
+👥 Teams onboarding new developer 
 
 🧠 “Code is not just what a computer understands — it's what humans understand too.”
-
-yaml
-Copy code
-
----
-
-✅ Paste this whole thing inside your GitHub [README.md editor](https://github.com/KrishnaVamsi-Ch/codebase-storyteller/edit/main/README.md), then click **Commit changes**.
-
-When you’re done, say **“done ✅”** and I’ll check it live again!
-
-
-
-
-You said:
-
-what are these codes and they are in different boxes that is why im getting confued
-
-ChatGPT said:
-Great question, Krishna — and thanks for sharing the screenshot. Let me clarify everything simply:
