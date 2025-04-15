@@ -39,17 +39,17 @@ def greet_user(name):
   
 🌐 Translations
 
-🇪🇸 Spanish:
+**🇪🇸 Spanish**:
 
 Este archivo contiene una clase (`FileReader`) y tres funciones (`__init__`, `load_file`, `greet_user`).
 Estas funciones se utilizan para leer un archivo y saludar al usuario.
 
-🇫🇷 French:
+**🇫🇷 French**:
 
 Ce fichier contient une classe (`FileReader`) et trois fonctions (`__init__`, `load_file`, `greet_user`).
 Ces fonctions sont utilisées pour lire un fichier et saluer l'utilisateur.
 
-🚀 How to Use
+**🚀 How to Use**
 
 git clone https://github.com/KrishnaVamsi-Ch/codebase-storyteller.git
 cd codebase-storyteller
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 python parser.py
 python translate.py  # optional
 
-🧭 Use Cases
+**🧭 Use Cases**
 
 📚 Beginners learning how codebases are structured
 
