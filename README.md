@@ -20,6 +20,7 @@ Turn any Python project into a structured story – in the language of your choi
 🔹 Functions: ['init', 'load_file', 'greet_user']
 
 
+
 → Translated to Hindi:  
 > यह फ़ाइल एक क्लास (`FileReader`) और दो फ़ंक्शन्स (`load_file`, `greet_user`) से बनी है...
 
@@ -27,13 +28,11 @@ Turn any Python project into a structured story – in the language of your choi
 
 ## 🚀 How to Run
 
-1. Clone this repo
-2. Install dependencies:
-
 ```bash
 pip install -r requirements.txt
 python parser.py
 python translate.py
+
 
 
 
