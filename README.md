@@ -1,6 +1,7 @@
 # 🌍 Codebase Storyteller – Multilingual Python Project Explainer
 
-Turn any Python project into a structured story – in the language of your choice! This tool analyzes code files, extracts classes & functions, and summarizes them in natural language with optional translation.
+Turn any Python project into a structured story – in the language of your choice!  
+This tool analyzes code files, extracts classes & functions, and summarizes them in natural language with optional translation.
 
 ---
 
@@ -14,6 +15,7 @@ Turn any Python project into a structured story – in the language of your choi
 ---
 
 ## 📦 Example Output
+
 **Input file:** `sample.py`
 
 ```python
@@ -27,5 +29,3 @@ class FileReader:
 
 def greet_user(name):
     return f"Hello, {name}!"
-
-
